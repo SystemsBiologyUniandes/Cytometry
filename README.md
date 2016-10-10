@@ -13,3 +13,5 @@ To Do:
 - Turn Work in progress into a functional plotting script 
 - Make FCSparser output a second DF with the summary statistics
 - Come up with original names
+
+Contact us: ca.sanchez1209@uniandes.edu.co
