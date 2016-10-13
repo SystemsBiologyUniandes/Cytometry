@@ -11,7 +11,7 @@ troubleshooting:
 
 To Do:
 - Turn Work in progress into a functional plotting script 
-- Make FCSparser output a second DF with the summary statistics
+- Make FCSparser output a second DF with the summary statistics: DONE, created in ./csv_data/Statistics_csv/statistics.csv.
 - Come up with original names
 - migrate to python script
 
