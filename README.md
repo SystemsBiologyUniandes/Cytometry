@@ -1,6 +1,6 @@
 # Cytometry
 
-to [install](https://github.com/eyurtsev/fcsparser) fcsparser:  pip install fcsparser
+to [install fcsparser](https://github.com/eyurtsev/fcsparser) :  pip install fcsparser
 
 FCSparser - converts a bunch of fcs files to csv files and plots some statistics
 Work in progress - plots the thing
