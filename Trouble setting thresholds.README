@@ -1,0 +1,6 @@
+
+How to set thresholds? 
+
+Well when doing my experiments this was done purely experimentally, I ran my samples several times until I was sure the threshold was filtering smaller particles than those in my sample.
+
+When measuring samples with the cytometer, unless well characterized, you should consider setting aside extra sample and play around with the threshold values so that when actually measuring the samples you'll be acquiring the particles of interest.
