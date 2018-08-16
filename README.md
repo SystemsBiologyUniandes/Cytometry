@@ -2,8 +2,9 @@
 
 to [install fcsparser](https://github.com/eyurtsev/fcsparser) :  pip install fcsparser
 
-FCSparser - converts a bunch of fcs files to csv files and plots some statistics
-Work in progress - plots the thing
+The names of the files in the repository are pretty much self explanatory. If you're really lost and don't know where to start check out HOW TO USE THE LIBRARY. 
+
+Please know what python and jupyter are before attempting to run this program.
 
 Troubleshooting:
 - Check for installed packages
